@@ -1,6 +1,6 @@
 ## Helo
 
-### I code in python and stuff
+I code in python and stuff
 
 > Stuff im working on
   >- Polytoria Forum Bot
