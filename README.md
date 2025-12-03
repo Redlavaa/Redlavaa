@@ -2,9 +2,9 @@
 
 I code in python and stuff
 
-Stuff im working on
-- Polytoria Forum Bot
-- Nothing lmao
+> Stuff im working on
+  - Polytoria Forum Bot
+  - Nothing lmao
 <!--
 **Redlavaa/Redlavaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
