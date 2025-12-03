@@ -1,4 +1,6 @@
-## Hi there 👋
+## Helo
+
+I code in python and stuff
 
 <!--
 **Redlavaa/Redlavaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
